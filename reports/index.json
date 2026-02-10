@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20260209-181158-e7uz",
+    "title": "Not Haro",
+    "commanders": [
+      "Not Haro"
+    ],
+    "dateStart": "2026-02-10T02:11:58.000Z",
+    "dateEnd": "2026-02-10T03:27:28.000Z",
+    "dateLabel": "2/9/2026, 6:11:58 PM - 2/9/2026, 7:27:28 PM",
+    "url": "https://gw2eww.github.io/fight-reports/?report=20260209-181158-e7uz",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 13,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 42
+    }
+  }
+]
