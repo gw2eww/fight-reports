@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260216-150741-xo9g",
+    "title": "Tilted Illusion",
+    "commanders": [
+      "Tilted Illusion"
+    ],
+    "dateStart": "2026-02-16T23:07:41.000Z",
+    "dateEnd": "2026-02-17T00:42:25.000Z",
+    "dateLabel": "2/16/2026, 3:07:41 PM - 2/16/2026, 4:42:25 PM",
+    "url": "https://gw2eww.github.io/fight-reports/?report=20260216-150741-xo9g",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 10,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 8,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 41
+    }
+  },
+  {
     "id": "20260214-180501-4vwq",
     "title": "Not Haro",
     "commanders": [
