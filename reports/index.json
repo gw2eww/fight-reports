@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260220-181659-jznd",
+    "title": "Charrmander Harasho",
+    "commanders": [
+      "Charrmander Harasho"
+    ],
+    "dateStart": "2026-02-21T02:16:59.000Z",
+    "dateEnd": "2026-02-21T04:03:43.000Z",
+    "dateLabel": "2/20/2026, 6:16:59 PM - 2/20/2026, 8:03:43 PM",
+    "url": "https://gw2eww.github.io/fight-reports/?report=20260220-181659-jznd",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 19,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 48,
+      "avgEnemySize": 49
+    }
+  },
+  {
     "id": "20260219-175918-0siq",
     "title": "Mesmer Kamoidra, Radiant Harasho",
     "commanders": [
