@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260221-175813-9owc",
+    "title": "Dub Grumble, Radiant Harasho",
+    "commanders": [
+      "Dub Grumble",
+      "Radiant Harasho"
+    ],
+    "dateStart": "2026-02-22T01:58:13.000Z",
+    "dateEnd": "2026-02-22T03:43:55.000Z",
+    "dateLabel": "2/21/2026, 5:58:13 PM - 2/21/2026, 7:43:55 PM",
+    "url": "https://gw2eww.github.io/fight-reports/?report=20260221-175813-9owc",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 23,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 50
+    }
+  },
+  {
     "id": "20260220-181659-jznd",
     "title": "Charrmander Harasho",
     "commanders": [
