@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260226-180218-et42",
+    "title": "Not Haro",
+    "commanders": [
+      "Not Haro"
+    ],
+    "dateStart": "2026-02-27T02:02:18.000Z",
+    "dateEnd": "2026-02-27T03:01:09.000Z",
+    "dateLabel": "2/26/2026, 6:02:18 PM - 2/26/2026, 7:01:09 PM",
+    "url": "https://gw2eww.github.io/fight-reports/?report=20260226-180218-et42",
+    "summary": {
+      "borderlandsPct": 0.875,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 4,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 22
+    }
+  },
+  {
     "id": "20260225-170751-qxtw",
     "title": "Fíbbs",
     "commanders": [
