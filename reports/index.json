@@ -1,429 +1,459 @@
-[
-  {
-    "id": "20260228-180131-hhap",
-    "title": "Dub Grumble, Radiant Harasho",
-    "commanders": [
-      "Dub Grumble",
-      "Radiant Harasho"
-    ],
-    "dateStart": "2026-03-01T02:01:31.000Z",
-    "dateEnd": "2026-03-01T03:57:14.000Z",
-    "dateLabel": "2/28/2026, 6:01:31 PM - 2/28/2026, 7:57:14 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260228-180131-hhap",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 8,
-          "color": "#22c55e"
-        }
-      ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 40
-    }
+{
+  "siteTheme": {
+    "ui": "kinetic",
+    "paletteId": "KineticPaperDark",
+    "kineticFont": "original"
   },
-  {
-    "id": "20260227-181125-loxx",
-    "title": "Reven The Big Show",
-    "commanders": [
-      "Reven The Big Show"
-    ],
-    "dateStart": "2026-02-28T02:11:25.000Z",
-    "dateEnd": "2026-02-28T03:51:33.000Z",
-    "dateLabel": "2/27/2026, 6:11:25 PM - 2/27/2026, 7:51:33 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260227-181125-loxx",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 12,
-          "color": "#22c55e"
-        }
+  "entries": [
+    {
+      "id": "20260301-172541-s77d",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 49,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260226-180218-et42",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-02-27T02:02:18.000Z",
-    "dateEnd": "2026-02-27T03:01:09.000Z",
-    "dateLabel": "2/26/2026, 6:02:18 PM - 2/26/2026, 7:01:09 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260226-180218-et42",
-    "summary": {
-      "borderlandsPct": 0.875,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 3,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 1,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-02T01:25:41.000Z",
+      "dateEnd": "2026-03-02T03:00:32.000Z",
+      "dateLabel": "3/1/2026, 5:25:41 PM - 3/1/2026, 7:00:32 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260301-172541-s77d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 42
+      }
+    },
+    {
+      "id": "20260228-180131-hhap",
+      "title": "Dub Grumble, Radiant Harasho",
+      "commanders": [
+        "Dub Grumble",
+        "Radiant Harasho"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 22
-    }
-  },
-  {
-    "id": "20260225-170751-qxtw",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-26T01:07:51.000Z",
-    "dateEnd": "2026-02-26T03:06:33.000Z",
-    "dateLabel": "2/25/2026, 5:07:51 PM - 2/25/2026, 7:06:33 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260225-170751-qxtw",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 21,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-01T02:01:31.000Z",
+      "dateEnd": "2026-03-01T03:57:14.000Z",
+      "dateLabel": "2/28/2026, 6:01:31 PM - 2/28/2026, 7:57:14 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260228-180131-hhap",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 40
+      }
+    },
+    {
+      "id": "20260227-181125-loxx",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260223-175307-b3e6",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-02-24T01:53:07.000Z",
-    "dateEnd": "2026-02-24T03:55:48.000Z",
-    "dateLabel": "2/23/2026, 5:53:07 PM - 2/23/2026, 7:55:48 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260223-175307-b3e6",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 10,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-28T02:11:25.000Z",
+      "dateEnd": "2026-02-28T03:51:33.000Z",
+      "dateLabel": "2/27/2026, 6:11:25 PM - 2/27/2026, 7:51:33 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260227-181125-loxx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260226-180218-et42",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 43,
-      "avgEnemySize": 40
-    }
-  },
-  {
-    "id": "20260222-171312-aaca",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-23T01:13:12.000Z",
-    "dateEnd": "2026-02-23T02:48:19.000Z",
-    "dateLabel": "2/22/2026, 5:13:12 PM - 2/22/2026, 6:48:19 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260222-171312-aaca",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-27T02:02:18.000Z",
+      "dateEnd": "2026-02-27T03:01:09.000Z",
+      "dateLabel": "2/26/2026, 6:02:18 PM - 2/26/2026, 7:01:09 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260226-180218-et42",
+      "summary": {
+        "borderlandsPct": 0.875,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 22
+      }
+    },
+    {
+      "id": "20260225-170751-qxtw",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 46,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260221-175813-9owc",
-    "title": "Dub Grumble, Radiant Harasho",
-    "commanders": [
-      "Dub Grumble",
-      "Radiant Harasho"
-    ],
-    "dateStart": "2026-02-22T01:58:13.000Z",
-    "dateEnd": "2026-02-22T03:43:55.000Z",
-    "dateLabel": "2/21/2026, 5:58:13 PM - 2/21/2026, 7:43:55 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260221-175813-9owc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 23,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-26T01:07:51.000Z",
+      "dateEnd": "2026-02-26T03:06:33.000Z",
+      "dateLabel": "2/25/2026, 5:07:51 PM - 2/25/2026, 7:06:33 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260225-170751-qxtw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260223-175307-b3e6",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 50
-    }
-  },
-  {
-    "id": "20260220-181659-jznd",
-    "title": "Charrmander Harasho",
-    "commanders": [
-      "Charrmander Harasho"
-    ],
-    "dateStart": "2026-02-21T02:16:59.000Z",
-    "dateEnd": "2026-02-21T04:03:43.000Z",
-    "dateLabel": "2/20/2026, 6:16:59 PM - 2/20/2026, 8:03:43 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260220-181659-jznd",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 19,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-24T01:53:07.000Z",
+      "dateEnd": "2026-02-24T03:55:48.000Z",
+      "dateLabel": "2/23/2026, 5:53:07 PM - 2/23/2026, 7:55:48 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260223-175307-b3e6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 40
+      }
+    },
+    {
+      "id": "20260222-171312-aaca",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 48,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260219-175918-0siq",
-    "title": "Mesmer Kamoidra, Radiant Harasho",
-    "commanders": [
-      "Mesmer Kamoidra",
-      "Radiant Harasho"
-    ],
-    "dateStart": "2026-02-20T01:59:18.000Z",
-    "dateEnd": "2026-02-20T04:00:36.000Z",
-    "dateLabel": "2/19/2026, 5:59:18 PM - 2/19/2026, 8:00:36 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260219-175918-0siq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 22,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 9,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-23T01:13:12.000Z",
+      "dateEnd": "2026-02-23T02:48:19.000Z",
+      "dateLabel": "2/22/2026, 5:13:12 PM - 2/22/2026, 6:48:19 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260222-171312-aaca",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260221-175813-9owc",
+      "title": "Dub Grumble, Radiant Harasho",
+      "commanders": [
+        "Dub Grumble",
+        "Radiant Harasho"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260218-170547-3pft",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-19T01:05:47.000Z",
-    "dateEnd": "2026-02-19T03:01:47.000Z",
-    "dateLabel": "2/18/2026, 5:05:47 PM - 2/18/2026, 7:01:47 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260218-170547-3pft",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 14,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-22T01:58:13.000Z",
+      "dateEnd": "2026-02-22T03:43:55.000Z",
+      "dateLabel": "2/21/2026, 5:58:13 PM - 2/21/2026, 7:43:55 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260221-175813-9owc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 23,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 50
+      }
+    },
+    {
+      "id": "20260220-181659-jznd",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260216-175855-dv8c",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-02-17T01:58:55.000Z",
-    "dateEnd": "2026-02-17T03:35:09.000Z",
-    "dateLabel": "2/16/2026, 5:58:55 PM - 2/16/2026, 7:35:09 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260216-175855-dv8c",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 20,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-21T02:16:59.000Z",
+      "dateEnd": "2026-02-21T04:03:43.000Z",
+      "dateLabel": "2/20/2026, 6:16:59 PM - 2/20/2026, 8:03:43 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260220-181659-jznd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260219-175918-0siq",
+      "title": "Mesmer Kamoidra, Radiant Harasho",
+      "commanders": [
+        "Mesmer Kamoidra",
+        "Radiant Harasho"
       ],
-      "avgSquadSize": 42,
-      "avgEnemySize": 39
-    }
-  },
-  {
-    "id": "20260216-150741-xo9g",
-    "title": "Tilted Illusion",
-    "commanders": [
-      "Tilted Illusion"
-    ],
-    "dateStart": "2026-02-16T23:07:41.000Z",
-    "dateEnd": "2026-02-17T00:42:25.000Z",
-    "dateLabel": "2/16/2026, 3:07:41 PM - 2/16/2026, 4:42:25 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260216-150741-xo9g",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 10,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 8,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-20T01:59:18.000Z",
+      "dateEnd": "2026-02-20T04:00:36.000Z",
+      "dateLabel": "2/19/2026, 5:59:18 PM - 2/19/2026, 8:00:36 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260219-175918-0siq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260218-170547-3pft",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 41
-    }
-  },
-  {
-    "id": "20260214-180501-4vwq",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-02-15T02:05:01.000Z",
-    "dateEnd": "2026-02-15T03:15:35.000Z",
-    "dateLabel": "2/14/2026, 6:05:01 PM - 2/14/2026, 7:15:35 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260214-180501-4vwq",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 17,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-19T01:05:47.000Z",
+      "dateEnd": "2026-02-19T03:01:47.000Z",
+      "dateLabel": "2/18/2026, 5:05:47 PM - 2/18/2026, 7:01:47 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260218-170547-3pft",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 53
+      }
+    },
+    {
+      "id": "20260216-175855-dv8c",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 18,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260213-181118-mr7p",
-    "title": "Reven The Big Show",
-    "commanders": [
-      "Reven The Big Show"
-    ],
-    "dateStart": "2026-02-14T02:11:18.000Z",
-    "dateEnd": "2026-02-14T03:42:44.000Z",
-    "dateLabel": "2/13/2026, 6:11:18 PM - 2/13/2026, 7:42:44 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260213-181118-mr7p",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 19,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-17T01:58:55.000Z",
+      "dateEnd": "2026-02-17T03:35:09.000Z",
+      "dateLabel": "2/16/2026, 5:58:55 PM - 2/16/2026, 7:35:09 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260216-175855-dv8c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 39
+      }
+    },
+    {
+      "id": "20260216-150741-xo9g",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
       ],
-      "avgSquadSize": 45,
-      "avgEnemySize": 51
-    }
-  },
-  {
-    "id": "20260212-180225-g66d",
-    "title": "Guardian Kamoidra, Mesmer Kamoidra",
-    "commanders": [
-      "Guardian Kamoidra",
-      "Mesmer Kamoidra"
-    ],
-    "dateStart": "2026-02-13T02:02:25.000Z",
-    "dateEnd": "2026-02-13T03:28:10.000Z",
-    "dateLabel": "2/12/2026, 6:02:25 PM - 2/12/2026, 7:28:10 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260212-180225-g66d",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 23,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-16T23:07:41.000Z",
+      "dateEnd": "2026-02-17T00:42:25.000Z",
+      "dateLabel": "2/16/2026, 3:07:41 PM - 2/16/2026, 4:42:25 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260216-150741-xo9g",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 41
+      }
+    },
+    {
+      "id": "20260214-180501-4vwq",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 29,
-      "avgEnemySize": 49
-    }
-  },
-  {
-    "id": "20260209-181158-e7uz",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-02-10T02:11:58.000Z",
-    "dateEnd": "2026-02-10T03:27:28.000Z",
-    "dateLabel": "2/9/2026, 6:11:58 PM - 2/9/2026, 7:27:28 PM",
-    "url": "https://gw2eww.github.io/fight-reports/?report=20260209-181158-e7uz",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 13,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-15T02:05:01.000Z",
+      "dateEnd": "2026-02-15T03:15:35.000Z",
+      "dateLabel": "2/14/2026, 6:05:01 PM - 2/14/2026, 7:15:35 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260214-180501-4vwq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260213-181118-mr7p",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 42
+      "dateStart": "2026-02-14T02:11:18.000Z",
+      "dateEnd": "2026-02-14T03:42:44.000Z",
+      "dateLabel": "2/13/2026, 6:11:18 PM - 2/13/2026, 7:42:44 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260213-181118-mr7p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 51
+      }
+    },
+    {
+      "id": "20260212-180225-g66d",
+      "title": "Guardian Kamoidra, Mesmer Kamoidra",
+      "commanders": [
+        "Guardian Kamoidra",
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-02-13T02:02:25.000Z",
+      "dateEnd": "2026-02-13T03:28:10.000Z",
+      "dateLabel": "2/12/2026, 6:02:25 PM - 2/12/2026, 7:28:10 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260212-180225-g66d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260209-181158-e7uz",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-02-10T02:11:58.000Z",
+      "dateEnd": "2026-02-10T03:27:28.000Z",
+      "dateLabel": "2/9/2026, 6:11:58 PM - 2/9/2026, 7:27:28 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260209-181158-e7uz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 42
+      }
     }
-  }
-]
+  ]
+}
