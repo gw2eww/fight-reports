@@ -1,11 +1,38 @@
 {
   "siteTheme": {
-    "ui": "kinetic",
-    "paletteId": "KineticPaperSlate",
-    "kineticFont": "original",
-    "kineticVariant": "slate"
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "original"
   },
   "entries": [
+    {
+      "id": "20260305-181936-ryth",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-03-06T02:19:36.000Z",
+      "dateEnd": "2026-03-06T04:00:01.000Z",
+      "dateLabel": "3/5/2026, 6:19:36 PM - 3/5/2026, 8:00:01 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260305-181936-ryth",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 44
+      }
+    },
     {
       "id": "20260302-180458-61s0",
       "title": "Not Haro",
