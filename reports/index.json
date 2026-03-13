@@ -6,6 +6,40 @@
   },
   "entries": [
     {
+      "id": "20260312-180540-lh62",
+      "title": "Guardian Kamoidra, Mesmer Kamoidra",
+      "commanders": [
+        "Guardian Kamoidra",
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-03-13T01:05:40.000Z",
+      "dateEnd": "2026-03-13T02:17:48.000Z",
+      "dateLabel": "3/12/2026, 6:05:40 PM - 3/12/2026, 7:17:48 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260312-180540-lh62",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260307-180257-aixm",
       "title": "Not Haro",
       "commanders": [
