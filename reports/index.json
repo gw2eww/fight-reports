@@ -1,10 +1,33 @@
 {
   "siteTheme": {
-    "ui": "dark-glass",
+    "ui": "classic",
     "paletteId": "Aurora",
     "kineticFont": "original"
   },
   "entries": [
+    {
+      "id": "20260314-175728-ya0k",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "dateStart": "2026-03-15T00:57:28.000Z",
+      "dateEnd": "2026-03-15T02:51:45.000Z",
+      "dateLabel": "3/14/2026, 5:57:28 PM - 3/14/2026, 7:51:45 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260314-175728-ya0k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 45
+      }
+    },
     {
       "id": "20260312-180540-lh62",
       "title": "Guardian Kamoidra, Mesmer Kamoidra",
