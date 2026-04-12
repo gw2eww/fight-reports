@@ -1,7 +1,30 @@
 {
-  "colorPalette": "teal-ocean",
+  "colorPalette": "crimson-red",
   "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260411-175835-0p37",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "dateStart": "2026-04-12T00:58:35.000Z",
+      "dateEnd": "2026-04-12T01:50:58.000Z",
+      "dateLabel": "4/11/2026, 5:58:35 PM - 4/11/2026, 6:50:58 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260411-175835-0p37",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 45
+      }
+    },
     {
       "id": "20260409-175737-0nuw",
       "title": "Dub Grumble",
