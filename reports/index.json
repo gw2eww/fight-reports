@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260413-180421-mbwi",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-04-14T01:04:21.000Z",
+      "dateEnd": "2026-04-14T01:53:15.000Z",
+      "dateLabel": "4/13/2026, 6:04:21 PM - 4/13/2026, 6:53:15 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260413-180421-mbwi",
+      "summary": {
+        "borderlandsPct": 0.6086956521739131,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260411-175835-0p37",
       "title": "Dub Grumble",
       "commanders": [
