@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260417-194344-3kdi",
+      "title": "F I B B S",
+      "commanders": [
+        "F I B B S"
+      ],
+      "dateStart": "2026-04-18T02:43:44.000Z",
+      "dateEnd": "2026-04-18T03:44:39.000Z",
+      "dateLabel": "4/17/2026, 7:43:44 PM - 4/17/2026, 8:44:39 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260417-194344-3kdi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260417-194344-g6vh",
       "title": "F I B B S",
       "commanders": [
