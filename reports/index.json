@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260420-180655-8lt2",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-04-21T01:06:55.000Z",
+      "dateEnd": "2026-04-21T01:53:50.000Z",
+      "dateLabel": "4/20/2026, 6:06:55 PM - 4/20/2026, 6:53:50 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260420-180655-8lt2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260418-192048-ckry",
       "title": "Dub Grumble",
       "commanders": [
