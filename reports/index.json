@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260423-180330-jywj",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-04-24T01:03:30.000Z",
+      "dateEnd": "2026-04-24T01:42:39.000Z",
+      "dateLabel": "4/23/2026, 6:03:30 PM - 4/23/2026, 6:42:39 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260423-180330-jywj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 39,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260420-180655-8lt2",
       "title": "Not Haro",
       "commanders": [
