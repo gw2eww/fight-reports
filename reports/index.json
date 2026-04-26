@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260425-174913-w4wl",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "dateStart": "2026-04-26T00:49:13.000Z",
+      "dateEnd": "2026-04-26T01:50:36.000Z",
+      "dateLabel": "4/25/2026, 5:49:13 PM - 4/25/2026, 6:50:36 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260425-174913-w4wl",
+      "summary": {
+        "borderlandsPct": 0.8461538461538461,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260423-180330-jywj",
       "title": "Mesmer Kamoidra",
       "commanders": [
