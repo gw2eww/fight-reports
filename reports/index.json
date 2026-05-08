@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260507-181052-ljo5",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-05-08T01:10:52.000Z",
+      "dateEnd": "2026-05-08T01:55:12.000Z",
+      "dateLabel": "5/7/2026, 6:10:52 PM - 5/7/2026, 6:55:12 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260507-181052-ljo5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260504-175247-a8u4",
       "title": "Mesmer Kamoidra",
       "commanders": [
