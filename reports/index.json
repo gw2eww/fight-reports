@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260518-175849-rsol",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-05-19T00:58:49.000Z",
+      "dateEnd": "2026-05-19T01:45:26.000Z",
+      "dateLabel": "5/18/2026, 5:58:49 PM - 5/18/2026, 6:45:26 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260518-175849-rsol",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260516-180131-owy9",
       "title": "Not Haro",
       "commanders": [
