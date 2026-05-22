@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260314-183406-1duw",
+      "title": "Dub Grumble, Mesmer Kamoidra",
+      "commanders": [
+        "Dub Grumble",
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-03-15T01:34:06.000Z",
+      "dateEnd": "2026-05-22T01:52:13.000Z",
+      "dateLabel": "3/14/2026, 6:34:06 PM - 5/21/2026, 6:52:13 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260314-183406-1duw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260518-175849-rsol",
       "title": "Not Haro",
       "commanders": [
