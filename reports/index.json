@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260601-180930-702r",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "dateStart": "2026-06-02T01:09:30.000Z",
+      "dateEnd": "2026-06-02T02:29:36.000Z",
+      "dateLabel": "6/1/2026, 6:09:30 PM - 6/1/2026, 7:29:36 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260601-180930-702r",
+      "summary": {
+        "borderlandsPct": 0.043478260869565216,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260530-180436-hxsf",
       "title": "Not Haro",
       "commanders": [
