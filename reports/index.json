@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-180311-lj8b",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "dateStart": "2026-06-16T01:03:11.000Z",
+      "dateEnd": "2026-06-16T01:58:09.000Z",
+      "dateLabel": "6/15/2026, 6:03:11 PM - 6/15/2026, 6:58:09 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260615-180311-lj8b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260613-180943-doi9",
       "title": "Dub Grumble",
       "commanders": [
