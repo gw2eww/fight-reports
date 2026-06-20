@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260619-191039-r4j0",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "dateStart": "2026-06-20T02:10:39.000Z",
+      "dateEnd": "2026-06-20T03:06:00.000Z",
+      "dateLabel": "6/19/2026, 7:10:39 PM - 6/19/2026, 8:06:00 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260619-191039-r4j0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260619-191039-ldm6",
       "title": "Charrmander Harasho",
       "commanders": [
