@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-181040-debe",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-06-28T01:10:40.000Z",
+      "dateEnd": "2026-06-28T01:45:06.000Z",
+      "dateLabel": "6/27/2026, 6:10:40 PM - 6/27/2026, 6:45:06 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260627-181040-debe",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260625-180429-mz0s",
       "title": "Mesmer Kamoidra",
       "commanders": [
