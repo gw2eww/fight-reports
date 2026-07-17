@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260716-181507-wspv",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-07-17T01:15:07.000Z",
+      "dateEnd": "2026-07-17T01:59:17.000Z",
+      "dateLabel": "7/16/2026, 6:15:07 PM - 7/16/2026, 6:59:17 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260716-181507-wspv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260713-173844-7355",
       "title": "Prez Ashton",
       "commanders": [
