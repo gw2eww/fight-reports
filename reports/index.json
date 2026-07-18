@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260717-193901-pwpk",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "dateStart": "2026-07-18T02:39:01.000Z",
+      "dateEnd": "2026-07-18T03:59:01.000Z",
+      "dateLabel": "7/17/2026, 7:39:01 PM - 7/17/2026, 8:59:01 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260717-193901-pwpk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260716-181507-wspv",
       "title": "Mesmer Kamoidra",
       "commanders": [
