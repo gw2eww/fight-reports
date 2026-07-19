@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-180353-z41x",
+      "title": "Dub Grumble, Not Haro",
+      "commanders": [
+        "Dub Grumble",
+        "Not Haro"
+      ],
+      "dateStart": "2026-07-19T01:03:53.000Z",
+      "dateEnd": "2026-07-19T02:05:15.000Z",
+      "dateLabel": "7/18/2026, 6:03:53 PM - 7/18/2026, 7:05:15 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260718-180353-z41x",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260717-193901-pwpk",
       "title": "Charrmander Harasho",
       "commanders": [
