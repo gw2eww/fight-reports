@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-174538-d8hp",
+      "title": "Mesmer Kamoidra, Prezz Ashton",
+      "commanders": [
+        "Mesmer Kamoidra",
+        "Prezz Ashton"
+      ],
+      "dateStart": "2026-07-24T00:45:38.000Z",
+      "dateEnd": "2026-07-24T02:20:50.000Z",
+      "dateLabel": "7/23/2026, 5:45:38 PM - 7/23/2026, 7:20:50 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260723-174538-d8hp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260720-180039-fz45",
       "title": "Not Haro",
       "commanders": [
