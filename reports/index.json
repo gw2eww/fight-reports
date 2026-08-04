@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-180312-mzpt",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-04T01:03:12.000Z",
+      "dateEnd": "2026-08-04T01:52:08.000Z",
+      "dateLabel": "8/3/2026, 6:03:12 PM - 8/3/2026, 6:52:08 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260803-180312-mzpt",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260801-181013-zt4m",
       "title": "F I B B S",
       "commanders": [
