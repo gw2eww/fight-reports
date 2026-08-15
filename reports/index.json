@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-191326-6d0o",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-15T02:13:26.000Z",
+      "dateEnd": "2026-08-15T03:11:49.000Z",
+      "dateLabel": "8/14/2026, 7:13:26 PM - 8/14/2026, 8:11:49 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260814-191326-6d0o",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260813-180823-zcr5",
       "title": "Mesmer Kamoidra",
       "commanders": [
