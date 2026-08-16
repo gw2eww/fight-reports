@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-175050-fubv",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-16T00:50:50.000Z",
+      "dateEnd": "2026-08-16T02:03:27.000Z",
+      "dateLabel": "8/15/2026, 5:50:50 PM - 8/15/2026, 7:03:27 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260815-175050-fubv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 53
+      }
+    },
+    {
       "id": "20260814-191326-6d0o",
       "title": "Charrmander Harasho",
       "commanders": [
