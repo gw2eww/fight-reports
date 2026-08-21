@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-180436-lpv4",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-21T01:04:36.000Z",
+      "dateEnd": "2026-08-21T02:09:50.517Z",
+      "dateLabel": "8/20/2026, 6:04:36 PM - 8/20/2026, 7:09:50 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260820-180436-lpv4",
+      "summary": {
+        "borderlandsPct": 0.8787878787878788,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 29,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260817-180500-5fxh",
       "title": "Not Haro",
       "commanders": [
