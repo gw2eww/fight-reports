@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-191523-khh7",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-08-29T02:15:23.000Z",
+      "dateEnd": "2026-08-29T03:32:49.762Z",
+      "dateLabel": "8/28/2026, 7:15:23 PM - 8/28/2026, 8:32:49 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260828-191523-khh7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 50,
+        "avgEnemySize": 72
+      }
+    },
+    {
       "id": "20260827-181256-wj2a",
       "title": "Mesmer Kamoidra",
       "commanders": [
