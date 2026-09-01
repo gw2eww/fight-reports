@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-191549-c08b",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-01T02:15:49.000Z",
+      "dateEnd": "2026-09-01T02:17:19.972Z",
+      "dateLabel": "8/31/2026, 7:15:49 PM - 8/31/2026, 7:17:19 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260831-191549-c08b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 50,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260831-180749-ebnl",
       "title": "Not Haro",
       "commanders": [
