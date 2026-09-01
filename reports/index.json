@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260831-180749-ebnl",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-01T01:07:49.000Z",
+      "dateEnd": "2026-09-01T02:24:26.424Z",
+      "dateLabel": "8/31/2026, 6:07:49 PM - 8/31/2026, 7:24:26 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260831-180749-ebnl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260829-175830-5j9e",
       "title": "Dub Grumble",
       "commanders": [
