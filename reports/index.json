@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260910-180838-czpz",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-11T01:08:38.000Z",
+      "dateEnd": "2026-09-11T01:39:10.977Z",
+      "dateLabel": "9/10/2026, 6:08:38 PM - 9/10/2026, 6:39:10 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260910-180838-czpz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260907-180531-0hct",
       "title": "Not Haro",
       "commanders": [
