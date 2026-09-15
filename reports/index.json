@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-211305-52g3",
+      "title": "Prez Ashtonn",
+      "commanders": [
+        "Prez Ashtonn"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-15T04:13:05.000Z",
+      "dateEnd": "2026-09-15T05:09:57.796Z",
+      "dateLabel": "9/14/2026, 9:13:05 PM - 9/14/2026, 10:09:57 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260914-211305-52g3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 74
+      }
+    },
+    {
       "id": "20260914-174838-pcxp",
       "title": "Prez Ashtonn",
       "commanders": [
