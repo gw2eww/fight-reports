@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260914-174838-pcxp",
+      "title": "Prez Ashtonn",
+      "commanders": [
+        "Prez Ashtonn"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-15T00:48:38.000Z",
+      "dateEnd": "2026-09-15T01:36:35.550Z",
+      "dateLabel": "9/14/2026, 5:48:38 PM - 9/14/2026, 6:36:35 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260914-174838-pcxp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260911-191303-0xcz",
       "title": "Charrmander Harasho",
       "commanders": [
