@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260917-181230-bjcj",
+      "title": "Guardian Kamoidra, Mesmer Kamoidra",
+      "commanders": [
+        "Guardian Kamoidra",
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-18T01:12:30.000Z",
+      "dateEnd": "2026-09-18T02:08:08.649Z",
+      "dateLabel": "9/17/2026, 6:12:30 PM - 9/17/2026, 7:08:08 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260917-181230-bjcj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260914-211305-52g3",
       "title": "Prez Ashtonn",
       "commanders": [
