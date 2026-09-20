@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260919-180724-1d8y",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-20T01:07:24.000Z",
+      "dateEnd": "2026-09-20T02:13:34.765Z",
+      "dateLabel": "9/19/2026, 6:07:24 PM - 9/19/2026, 7:13:34 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260919-180724-1d8y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260917-181230-bjcj",
       "title": "Guardian Kamoidra, Mesmer Kamoidra",
       "commanders": [
