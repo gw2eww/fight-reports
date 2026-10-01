@@ -5,6 +5,40 @@
   "axiDesign": true,
   "entries": [
     {
+      "id": "20260930-193446-cisc",
+      "title": "Ironclone, Prez Ashtonn",
+      "commanders": [
+        "Ironclone",
+        "Prez Ashtonn"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-10-01T02:34:46.000Z",
+      "dateEnd": "2026-10-01T03:16:16.344Z",
+      "dateLabel": "9/30/2026, 7:34:46 PM - 9/30/2026, 8:16:16 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20260930-193446-cisc",
+      "summary": {
+        "borderlandsPct": 0.8636363636363636,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260928-174804-egkj",
       "title": "Not Haro",
       "commanders": [
