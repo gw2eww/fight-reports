@@ -1,9 +1,48 @@
 {
   "colorPalette": "axi-gold",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "axiDesign": true,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20261001-181057-4y23",
+      "title": "Dub Grumble, Mesmer Kamoidra",
+      "commanders": [
+        "Dub Grumble",
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-10-02T01:10:57.000Z",
+      "dateEnd": "2026-10-02T02:25:49.173Z",
+      "dateLabel": "10/1/2026, 6:10:57 PM - 10/1/2026, 7:25:49 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261001-181057-4y23",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20260930-193446-cisc",
       "title": "Ironclone, Prez Ashtonn",
