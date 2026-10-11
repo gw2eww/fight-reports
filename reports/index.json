@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261010-181746-rpf8",
+      "title": "Mesmer Kamoidra, Pptmander Harasho",
+      "commanders": [
+        "Mesmer Kamoidra",
+        "Pptmander Harasho"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-10-11T01:17:46.000Z",
+      "dateEnd": "2026-10-11T02:10:07.878Z",
+      "dateLabel": "10/10/2026, 6:17:46 PM - 10/10/2026, 7:10:07 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261010-181746-rpf8",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261009-191312-upnk",
       "title": "Charrmander Harasho",
       "commanders": [
