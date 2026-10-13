@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.2"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261012-180224-lybe",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-10-13T01:02:24.000Z",
+      "dateEnd": "2026-10-13T02:01:31.754Z",
+      "dateLabel": "10/12/2026, 6:02:24 PM - 10/12/2026, 7:01:31 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261012-180224-lybe",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 42
+      }
+    },
     {
       "id": "20261010-181746-rpf8",
       "title": "Mesmer Kamoidra, Pptmander Harasho",
