@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261017-181159-p5lj",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "guild": {
+        "id": "173BC688-0F99-F111-BB16-027555657585",
+        "name": "My Commander Sounds Fat",
+        "tag": "DUB"
+      },
+      "dateStart": "2026-10-18T01:11:59.000Z",
+      "dateEnd": "2026-10-18T01:59:49.911Z",
+      "dateLabel": "10/17/2026, 6:11:59 PM - 10/17/2026, 6:59:49 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261017-181159-p5lj",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 0.46153846153846156,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 7,
+            "color": "#64748b"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20261015-180348-hy6q",
       "title": "Mesmer Kamoidra",
       "commanders": [
