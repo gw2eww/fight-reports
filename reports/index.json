@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261023-191206-2e4i",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-10-24T02:12:06.000Z",
+      "dateEnd": "2026-10-24T02:54:19.858Z",
+      "dateLabel": "10/23/2026, 7:12:06 PM - 10/23/2026, 7:54:19 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261023-191206-2e4i",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 73
+      }
+    },
     {
       "id": "20261017-181159-p5lj",
       "title": "Not Haro",
