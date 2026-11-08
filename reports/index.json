@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.22.12"
   },
   "entries": [
+    {
+      "id": "20261107-175719-j9n2",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-11-08T01:57:19.000Z",
+      "dateEnd": "2026-11-08T03:30:00.609Z",
+      "dateLabel": "11/7/2026, 5:57:19 PM - 11/7/2026, 7:30:00 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261107-175719-j9n2",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 47
+      }
+    },
     {
       "id": "20261106-182211-qdnm",
       "title": "Charrmander Harasho",
