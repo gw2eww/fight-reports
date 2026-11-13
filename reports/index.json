@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.23.0"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261112-175807-8o3m",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-11-13T01:58:07.000Z",
+      "dateEnd": "2026-11-13T03:20:39.305Z",
+      "dateLabel": "11/12/2026, 5:58:07 PM - 11/12/2026, 7:20:39 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261112-175807-8o3m",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 27,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 41
+      }
+    },
     {
       "id": "20261109-175911-brfs",
       "title": "Not Haro",
