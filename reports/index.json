@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261114-180241-amqk",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-11-15T02:02:41.000Z",
+      "dateEnd": "2026-11-15T03:27:31.982Z",
+      "dateLabel": "11/14/2026, 6:02:41 PM - 11/14/2026, 7:27:31 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261114-180241-amqk",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20261112-175807-8o3m",
       "title": "Mesmer Kamoidra",
       "commanders": [
