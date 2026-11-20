@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261119-182911-ivno",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-11-20T02:29:11.000Z",
+      "dateEnd": "2026-11-20T03:30:02.499Z",
+      "dateLabel": "11/19/2026, 6:29:11 PM - 11/19/2026, 7:30:02 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261119-182911-ivno",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261116-181536-ruko",
       "title": "The Developër",
       "commanders": [
