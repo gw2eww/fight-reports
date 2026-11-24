@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261123-180620-8coh",
+      "title": "The Developër",
+      "commanders": [
+        "The Developër"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-11-24T02:06:20.000Z",
+      "dateEnd": "2026-11-24T03:04:35.013Z",
+      "dateLabel": "11/23/2026, 6:06:20 PM - 11/23/2026, 7:04:35 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261123-180620-8coh",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20261120-181332-14o4",
       "title": "Charrmander Harasho",
       "commanders": [
