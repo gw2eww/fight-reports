@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261126-174551-gndv",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-11-27T01:45:51.000Z",
+      "dateEnd": "2026-11-27T02:12:03.512Z",
+      "dateLabel": "11/26/2026, 5:45:51 PM - 11/26/2026, 6:12:03 PM",
+      "url": "https://gw2eww.github.io/fight-reports/?report=20261126-174551-gndv",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20261123-180620-8coh",
       "title": "The Developër",
       "commanders": [
